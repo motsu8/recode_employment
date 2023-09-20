@@ -52,4 +52,4 @@ Recursion運営にスプリントレビューしてもらおう。
 |10/12 ~ 10/18|調整・リリース|
 
 ### ポートフォリオの要件定義
-[ポートフォリオ](https://github.com/motsu8/youtube_note/wiki)
+[こちらを参照](https://github.com/motsu8/youtube_note/wiki/%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9)
