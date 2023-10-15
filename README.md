@@ -80,19 +80,6 @@ YouTube Dataを取得するクラスを検討する
 - [ ] 要約で使用予定の生成AIの比較
 - [ ] 技術スタック
 
-## マイルストーン
-ポートフォリオ作成中
-
-```mermaid
-  flowchart LR;
-    classDef now fill:#A4FFD4
-
-    start((Start)) --> portfolio[ポートフォリオ作成]:::now
-    portfolio --> resume[レジュメ作成]
-    resume --> job[就活]
-    job --> END(((END)))
-```
-
 # 9/24 - 10/1
 ## 目的
 開発の技術選定、キャッチアップをし、開発をスムーズに行う
@@ -149,19 +136,6 @@ YouTube Dataを取得するクラスを検討する
   - [ ] モックアップ
 - [ ] API開発
 - [ ] 画面開発
-
-## マイルストーン
-ポートフォリオ作成中
-
-```mermaid
-  flowchart LR
-    classDef now fill:#A4FFD4
-
-    start((Start)) --> portfolio[ポートフォリオ作成]:::now
-    portfolio --> resume[レジュメ作成]
-    resume --> job[就活]
-    job --> END(((END)))
-```
 
 # 10/02 - 10/08
 ## 目的
@@ -223,19 +197,6 @@ YouTube Dataを取得するクラスを検討する
 - [ ] API開発
 - [ ] 画面開発
 
-## マイルストーン
-ポートフォリオ作成中
-
-```mermaid
-  flowchart LR
-    classDef now fill:#A4FFD4
-
-    start((Start)) --> portfolio[ポートフォリオ作成]:::now
-    portfolio --> resume[レジュメ作成]
-    resume --> job[就活]
-    job --> END(((END)))
-```
-
 # 10/09 - 10/15
 ## 目的
 画面開発を行う。
@@ -292,7 +253,7 @@ YouTube Dataを取得するクラスを検討する
   - [ ] 動画視聴画面
 
 
-## マイルストーン
+# マイルストーン
 ポートフォリオ作成中
 
 ```mermaid
